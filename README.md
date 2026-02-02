@@ -46,13 +46,13 @@ I officially began my journey in the tech space 6 years ago, mastering graphic d
 **AI-Powered Content Tool.** A React & PHP-based application that extracts and summarizes key points from YouTube videos to save time and increase learning efficiency.
 
 #### 🎓 [Israel Creative Hub](https://israelcreativehub.com.ng)
-**Educational Platform.** A dedicated hub providing summarized keypoints and study materials for National Open University of Nigeria (NOUN) students.
+**Educational Platform.** A dedicated hub providing summarized keypoints and study materials for JAMB, WAEC, NECO and university students in Nigeria.
 
 ---
 
 ### 🖼️ Portfolio Showcase
 <p align="center">
-  <img src="YOUR_PICTURE_LINK_HERE" alt="Israel Mrakpor Portfolio Showcase" width="100%" />
+  <img src="https://i.ibb.co/NdTJWL6J/image.png" alt="Israel Mrakpor Portfolio Showcase" width="100%" />
 </p>
 
 ---
