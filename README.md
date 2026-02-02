@@ -58,15 +58,16 @@ I officially began my journey in the tech space 6 years ago, mastering graphic d
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=IsraelMrakpor&show_icons=true&theme=radical" alt="Israel Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelMrakpor&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=IsraelMrakpor&show_icons=true&theme=radical" alt="Israel Stats" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsraelMrakpor&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/Portfolio-israel--mrakpor.web.app-128C7E?style=flat-square&logo=google-chrome&logoColor=white" />](https://israel-mrakpor.web.app)
-[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:israelmrakpor@gmail.com)
+[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:bookmrisrael@gmail.comm)
 
 *"Design is not just what it looks like, it's how it works."*
