@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Israel Mrakpor
-### 🚀 Creative Web Developer & Graphic Designer based in Nigeria 🇳🇬
+### 🚀 Creative Web Developer & Graphic Designer | Nigeria 🇳🇬
 
 <p align="left">
 <img src="https://img.shields.io/badge/-Creative_Designer-25d366?style=for-the-badge" />
@@ -12,9 +12,9 @@
 ### 📖 About Me
 I officially began my journey in the tech space 6 years ago, mastering graphic design and printing before transitioning into professional web development. Currently a student at the **National Open University of Nigeria (NOUN)**, I bridge the gap between aesthetic design and functional code.
 
-- 🔭 **Currently working on:** Enhancing [WA DirectLink](https://wadirectlink.web.app) for global SEO.
-- 🌱 **Learning:** Advanced REST API architectures and Cloud Scaling.
-- ⚡ **Fun Fact:** I believe a good user interface should be as intuitive as a conversation.
+- 🔭 **Currently focused on:** Building monetizable web tools and educational resources.
+- 🌱 **Learning:** Scalable Backend Architectures and Advanced SEO.
+- ⚡ **Goal:** To empower Nigerian students and businesses through technology.
 
 ---
 
@@ -29,20 +29,31 @@ I officially began my journey in the tech space 6 years ago, mastering graphic d
 
 #### **Backend & Database**
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-#### **Design Tools**
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![CorelDraw](https://img.shields.io/badge/Corel--Draw-E32219?style=for-the-badge&logo=Corel&logoColor=white)
 
 ---
 
-### 🌟 Featured Project: WA Direct Link
-**"Chat without saving contacts."** Built with React and Firebase, this tool is designed for the Nigerian business landscape, providing a seamless "Click to Chat" experience.
+### 🌟 Featured Projects
 
-👉 **[Launch App](https://wadirectlink.web.app)** | 🌐 **[Visit Israel Creative Hub](https://israelcreativehub.com.ng)**
+#### 📱 [WA Direct Link](https://wadirectlink.web.app)
+**WhatsApp Link & QR Generator.** A privacy-first tool to generate instant "click-to-chat" links and professional QR codes without saving contacts.
+
+#### ✉️ [TempDrop (Mail-Temp)](https://tempdrop.web.app)
+**Disposable Email Service.** Protect your primary inbox from spam. Generate temporary email addresses instantly for secure registrations.
+
+#### 📺 YouTube Summarizer
+**AI-Powered Content Tool.** A React & PHP-based application that extracts and summarizes key points from YouTube videos to save time and increase learning efficiency.
+
+#### 🎓 [Israel Creative Hub](https://israelcreativehub.com.ng)
+**Educational Platform.** A dedicated hub providing summarized keypoints and study materials for National Open University of Nigeria (NOUN) students.
+
+---
+
+### 🖼️ Portfolio Showcase
+<p align="center">
+  <img src="YOUR_PICTURE_LINK_HERE" alt="Israel Mrakpor Portfolio Showcase" width="100%" />
+</p>
 
 ---
 
@@ -56,7 +67,6 @@ I officially began my journey in the tech space 6 years ago, mastering graphic d
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/Portfolio-israel--mrakpor.web.app-128C7E?style=flat-square&logo=google-chrome&logoColor=white" />](https://israel-mrakpor.web.app)
-[<img src="https://img.shields.io/badge/LinkedIn-Israel_Mrakpor-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL_HERE)
-[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:YOUR_EMAIL_HERE)
+[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:israelmrakpor@gmail.com)
 
 *"Design is not just what it looks like, it's how it works."*
