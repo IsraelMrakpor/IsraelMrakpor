@@ -50,21 +50,9 @@ I officially began my journey in the tech space 6 years ago, mastering graphic d
 
 ---
 
-### 🖼️ Portfolio Showcase
-<p align="center">
-  <img src="https://i.ibb.co/NdTJWL6J/image.png" alt="Israel Mrakpor Portfolio Showcase" width="100%" />
-</p>
 
----
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=IsraelMrakpor&show_icons=true&theme=radical" alt="Israel Stats" height="150" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsraelMrakpor&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
----
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/Portfolio-israel--mrakpor.web.app-128C7E?style=flat-square&logo=google-chrome&logoColor=white" />](https://israel-mrakpor.web.app)
